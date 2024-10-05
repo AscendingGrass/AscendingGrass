@@ -1,5 +1,7 @@
 # Hi, I'm AscendingGrass
 
+![Banner](github_banner.jpg)
+
 ## 💻 About Me
 I am an undergraduate student with a passion for Deep Learning, Language Models, and Game Development. I also do Photoshop for image editing and/or digital art.
 
