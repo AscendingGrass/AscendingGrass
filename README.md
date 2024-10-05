@@ -39,4 +39,4 @@ A 3 person AI project for a class made in C# WinForms. This is a program to run 
 
 ## 📫 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/nicholas-arsa-a32528283)
+- [LinkedIn](https://www.linkedin.com/in/nicholas-arsa-a32528283)
